@@ -1,0 +1,15 @@
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.csproj.AssemblyReference.cache
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.AssemblyInfoInputs.cache
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.AssemblyInfo.cs
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\задача 27\bin\Debug\net6.0\задача 27.exe
+C:\Users\Vit\Desktop\задача 27\bin\Debug\net6.0\задача 27.deps.json
+C:\Users\Vit\Desktop\задача 27\bin\Debug\net6.0\задача 27.runtimeconfig.json
+C:\Users\Vit\Desktop\задача 27\bin\Debug\net6.0\задача 27.dll
+C:\Users\Vit\Desktop\задача 27\bin\Debug\net6.0\задача 27.pdb
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.dll
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\refint\задача 27.dll
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.pdb
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\задача 27.genruntimeconfig.cache
+C:\Users\Vit\Desktop\задача 27\obj\Debug\net6.0\ref\задача 27.dll
